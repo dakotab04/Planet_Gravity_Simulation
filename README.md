@@ -8,7 +8,7 @@ planet’s actual gravitational pull to calculate the results. The project start
 with C++17—especially Object-Oriented Programming and user input handling by modeling the height of a ball dropped from a tower-
 but it turned into a fun way to mix programming with real-world physics when I got the idea to model gravity for different planets. 
 By applying a basic physics formula (distance fallen = ½ × g × t²), I got a better understanding of both how motion works and how to 
-turn it into working code. It also gave me a chance to think about error-checking, user experience, and keeping my code organized.
+turn formulas into working code. It also gave me a chance to think about error-checking, user experience, and keeping my code organized.
 
 ## FEATURES:
 - Simulates how a ball falls on different planets using real gravity values
